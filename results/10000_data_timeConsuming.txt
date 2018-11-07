@@ -1,0 +1,6 @@
+averageTime_insert: 3.0006872177124024
+averageTime_updateOneByOne: 33.805678081512454
+averageTime_updateOneRandom: 36.167938923835756
+averageTime_findOneByOne: 36.07794299125671
+averageTime_findRandom: 36.9468789100647
+averageTime_delete: 3.5884851932525637
